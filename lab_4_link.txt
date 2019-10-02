@@ -1,0 +1,6 @@
+//Daniel Camarena
+//Lab 4
+//https://github.com/daca3148/Lab_Website.git
+
+//Side note!!: I spoke to professor during recitation and she told me to inform you that i was unable to finish the first parts in class due to issues with my laptop, but that it shouldn't affect my grade!
+//Thank you!
